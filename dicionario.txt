@@ -1,0 +1,326 @@
+AD
+AD Security
+API
+API Security
+AWS
+AWS CloudTrail
+AWS GuardDuty
+AWS IAM
+AWS Security Hub
+Analista
+Analista de
+Analista de malware
+Analyst
+Ansible
+Antiphishing
+Análisis
+Análisis de logs
+Análisis forense
+AppSec
+Application
+Application Security
+ArcSight
+Arquitecto
+Auditor de
+Autenticación
+Autenticación multifactor
+Awareness
+Azure
+Azure AD
+Azure Security Center
+Azure Sentinel
+BCP
+BEC
+Backup
+Bastionado
+BeyondTrust
+BloodHound
+Blue
+Blue Team
+Burp Suite
+CASB
+CCSP
+CEH
+CERT
+CI/CD
+CIS Controls
+CISM
+CISO
+CISSP
+CRISC
+CSIRT
+CSPM
+CWPP
+Carbon Black
+Certificados
+Certificados digitales
+Check Point
+Chronicle
+Ciberseguridad
+Cifrado
+Cisco ASA
+Cisco ISE
+Cloud
+Cloud Security
+CloudTrail
+CloudWatch
+Code review
+CompTIA
+CompTIA CySA+
+CompTIA PenTest+
+CompTIA Security+
+Compliance
+Concienciación
+Concienciación en seguridad
+Consultor
+Container Security
+Continuidad
+Continuidad de negocio
+Correlación
+Correlación de eventos
+Cortex
+Criptografía
+CrowdStrike
+Cumplimiento
+CySA
+CyberArk
+Cybersecurity
+DAST
+DFIR
+DLP
+DORA
+DPO
+DRP
+Datos
+Defender
+Defender for Cloud
+Detección
+Detección y respuesta
+DevSecOps
+Docker
+EDR
+ENS
+Elastic SIEM
+Endpoint
+Engineer
+Entra ID
+Equipo de respuesta a incidentes
+Escalado
+Especialista
+Esquema
+Esquema Nacional
+Esquema Nacional de Seguridad
+Ethical
+Ethical Hacker
+Federación
+Firewall
+Forense digital
+Formación
+Formación en ciberseguridad
+FortiGate
+Fortinet FortiSIEM
+Fraude
+Fraude del CEO
+GCIA
+GCIH
+GCP
+GDPR
+GIAC
+GPEN
+GRC
+GSEC
+Gestión
+Gestión de incidentes
+Gestión de parches
+Gestión de vulnerabilidades
+Gestor de riesgos
+Google
+Google Chronicle
+Google Cloud
+Guardias
+HSM
+Hacker
+Hacking
+Hacking ético
+Hardening
+HashiCorp Vault
+IAM
+IAM Engineer
+IAST
+ICS Security
+IDS
+IPS
+IR
+ISO
+ISO 22301
+ISO 27001
+ISO 27001 Lead Auditor
+ISO 27001 Lead Implementer
+ISO 27002
+ITIL
+IaC
+Incident Response
+Ingeniero
+Ingeniero IAM
+Inteligencia
+Inteligencia de amenazas
+Intelligence
+Jira
+K8s
+KMS
+Kali Linux
+Kinesis
+Kubernetes Security
+LOPDGDD
+M365
+MFA
+MISP
+MITRE
+MITRE ATT&CK
+Malware
+Malware Analyst
+Management
+Manager
+Metasploit
+Microsegmentación
+Microsoft
+Microsoft 365 Defender
+Microsoft Defender
+Microsoft Defender for Endpoint
+Microsoft Sentinel
+Mimikatz
+Modelado
+Modelado de amenazas
+Monitorización
+Monitorización 24x7
+NAC
+NDR
+NIS2
+NIST
+NIST 800-53
+NIST CSF
+Nessus
+Nmap
+OAuth2
+OIDC
+OSCE
+OSCP
+OT
+OT Security
+OWASP
+OWASP Top 10
+Okta
+On-call
+Operador
+Operations
+PAM
+PAM Engineer
+PCI DSS
+PKI
+Palo Alto
+Palo Alto Cortex XDR
+Patch Management
+Pentester
+Pentesting
+Phishing
+Playbooks
+Protección
+Protección de Datos
+Proxy
+Purple Team
+QRadar
+Qualys
+RASP
+RGPD
+Ransomware
+Rapid7
+Rapid7 InsightVM
+Recuperación
+Recuperación ante desastres
+Red
+Red Team
+Responsable
+Respuesta
+Respuesta a incidentes
+Riesgo
+Risk
+Runbooks
+SAML
+SAST
+SIEM
+SOAR
+SOC
+SOC 2
+SSO
+SecOps
+Secure coding
+Security
+Security Awareness
+Security Operations
+Segmentación
+Seguridad
+Seguridad Cloud
+Seguridad ICS
+Seguridad OT
+Seguridad de API
+Seguridad de contenedores
+Seguridad de correo
+Seguridad de la información
+Seguridad de red
+Seguridad en Active Directory
+Seguridad endpoint
+Seguridad informática
+Seguridad móvil
+Seguridad perimetral
+Seguridad web
+SentinelOne
+ServiceNow
+Snort
+Spear
+Spear phishing
+Splunk
+Suricata
+TLS
+Team
+Tenable
+Terraform
+TheHive
+Threat
+Threat Hunter
+Threat Hunting
+Threat Intelligence
+Threat modeling
+Triage
+Turnos
+Técnico
+VPN
+Vulnerability
+Vulnerability Management
+WAF
+Wazuh
+Wireshark
+XDR
+ZTA
+Zeek
+Zero
+Zero Trust
+amenazas
+ciberseguridad
+contenedores
+desastres
+digital
+eCPPT
+eJPT
+eventos
+forense
+incidentes
+inteligencia
+logs
+modeling
+multifactor
+negocio
+pfSense
+phishing
+respuesta
+seguridad
+vulnerabilidades

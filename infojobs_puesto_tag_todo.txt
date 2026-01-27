@@ -1,0 +1,395 @@
+Account manager
+Activity leader
+Administrador/a de bases de datos
+Administrador/a de redes
+Administrador/a de sistemas
+Administrador/a de sistemas informáticos
+Administrador/a de sistemas Linux
+Administrativo/a
+Administrativo/a contable
+Administrativo/a de logística
+Agente de call center
+Agente de gestión de residuos
+Agente de la guardia civil
+Agente de policía nacional
+Agente de protección civil
+Analista contable
+Analista de ciberseguridad
+Analista de datos
+Analista de datos de clientes
+Analista de laboratorio
+Analista de laboratorio químico
+Analista de negocios
+Analista de programación
+Analista de recursos humanos
+Analista de riesgo
+Analista de riesgo crediticio
+Analista de riesgos
+Analista de riesgos en aseguradoras
+Analista de riesgos financieros
+Analista de RRHH
+Analista de sistemas
+Analista financiero/a
+Analista funcional
+Analista IT
+Analistas de datos
+Animador/a sociocultural
+Apicultor/a
+Application developer
+Application engineer
+Arquitecto/a
+Arquitecto/a de datos
+Arquitecto/a de sistemas
+Arquitecto/a de software
+Arquitecto/a de soluciones
+Arquitecto/a paisajista
+Arquitecto/a técnico/a
+Artista digital
+Asesor/a de seguridad
+Asistente administrativo/a
+Asistente de gestión
+Asistente de gestión inmobiliaria
+Asistente de organización de eventos
+Assistant manager
+Assistant operations manager
+Auditor
+Auditor/a de cuentas
+Auditor/a de TIC
+Auditor/a energético/a
+Auditor/a nocturno/a
+Automation engineer
+Auxiliar administrativo/a
+Auxiliar sociosanitario/a
+Azafato/a de eventos
+Bank compliance officer
+Business intelligence analyst
+Business intelligence consultant
+Business intelligence manager
+Business intelligence specialist
+Business operations manager
+Call center agent
+Call center operator
+Call center representative
+Call centre agent
+Call centre operator
+Call centre service agent
+Call centre supervisor
+Camarero/a responsable del comedor
+Captador/a de socios para ONG
+Carton machine operator
+CEO
+Chief compliance officer
+Chief operations officer
+Científico/a de datos
+Cirujano/a
+CISO
+Community manager
+Compliance coordinator
+Confeccionista de ropa de protección
+Consultor/a comercial
+Consultor/a de ciberseguridad
+Consultor/a de recursos humanos
+Consultor/a de RRHH
+Consultor/a de selección de personal
+Consultor/a de TIC
+Consultor/a empresarial
+Consultor/a energético/a
+Consultor/a financiero/a
+Consultor/a informático/a
+Consultor/a SAP
+Controlador/a de calidad de productos
+Controller financiero
+Coordinador/a de becas y ayudas
+Coordinador/a de eventos
+Coordinador/a de gestión de residuos
+Credit risk analyst
+Credit risk manager
+Cybersecurity consultant
+Data analyst
+Data engineer
+Desarrollador/a de aplicaciones web
+Desarrollador/a web
+Desarrollador/a web Full Stack
+DevOps engineer
+Dibujante técnico/a arquitectónico/a
+Digital community manager
+Digital content
+Digital designer
+Digital marketer
+Digital marketing manager
+Digital marketing strategist
+Digital media planner
+Digital multimedia designer
+Digital sales manager
+Director/a de call center
+Diseñador/a digital
+Diseñador/a web
+Docente de ciencias
+Docente de formación profesional
+Docente de informática
+Editor/a de cine y televisión
+Educador/a social
+Empleado/a de gestión tributaria
+Empleado/a de guardarropa
+Encargado/a de guardarropa
+Encargado/a de obra civil
+Engineering assistant
+Engineering manager
+Engineering project manager
+Ensamblador/a de equipos eléctricos
+Ensamblador/a de maquinaria mecánica
+Ensamblador/a de productos de plástico
+Ensamblador/a de productos metálicos
+Entrador/a de datos
+Especialista en ciberseguridad
+Especialista en comunicación
+Especialista en contenidos digitales
+Especialista en control de calidad
+Especialista en formación en empresas
+Especialista en geomática y topografía
+Especialista en importación y exportación
+Especialista en logística
+Especialista en logística de eventos
+Especialista en marketing on line
+Especialista en publicidad
+Especialista en SEO
+Especialista en tratamientos de depilación
+Especialista en tratamientos de estética
+External auditor
+F & B manager
+Finance controller
+Financial analyst
+Financial controller
+Flight attendant
+Formador/a en informática
+Fraud analyst
+Fraud prevention analyst
+Fruit picking team leader
+Full Stack Engineer
+Fundidor/a en alto horno
+Gestor/a administrativo/a
+Gestor/a comercial
+Gestor/a cultural
+Gestor/a de banca comercial
+Gestor/a de bases de datos
+Gestor/a de cobros
+Gestor/a de cuentas
+Gestor/a de cuentas de clientes
+Gestor/a de datos
+Gestor/a de equipo comercial
+Gestor/a de redes
+Gestor/a de riesgos financieros
+Gestor/a de siniestros
+Gestor/a de ventas
+Grabador/a de datos
+Growth hacker
+Guarda de coto de caza
+Guarda de seguridad
+Guarda forestal
+Guardaespaldas
+Head hunter
+Hunter
+Impresor/a digital
+Inbound call center agent
+Informador/a turístico/a
+Information agent
+Information security manager
+Ingeniero/a civil
+Ingeniero/a de control de calidad
+Ingeniero/a de datos
+Ingeniero/a de diseño
+Ingeniero/a de inteligencia artificial
+Ingeniero/a de mantenimiento
+Ingeniero/a de procesos
+Ingeniero/a de producción
+Ingeniero/a de software
+Ingeniero/a eléctrico/a
+Ingeniero/a industrial
+Ingeniero/a mecánico/a
+Ingeniero/a técnico/a en informática
+Ingeniero/a técnico/a industrial
+Ingeniero/a técnico/a informático/a de microsistemas
+Inspector/a de control de calidad
+Inspector/a de seguridad industrial
+Instalador/a de equipos electrónicos
+Instalador/a de sistemas de riego
+Instalador/a de sistemas de seguridad
+Integrador/a social
+Internal auditor
+Investigador/a de ciencias sociales
+Investigador/a de fraudes financieros
+IT analyst
+IT business analyst
+IT operations manager
+IT security consultant
+Jefe/a de equipo
+Jefe/a de equipo de fontaneros
+Jefe/a de equipo de montaje
+Jefe/a de equipo de obra
+Jefe/a de equipo de seguridad
+Junior engineer
+Key account manager
+Kinesiólogo/a
+Laser operations
+Logistics analyst
+Logistics operations manager
+Maestro/a de enseñanza primaria
+Management assistant
+Manager of social service
+Manager of spa
+Mantenedor/a de equipos de telecomunicaciones
+Marketing analyst
+Marketing manager
+Marketing operations assistant
+Médico/a forense
+Modelador/a 3D
+Modelista
+Modelo de bellas artes
+Modelo de moda
+Modelo de pasarela
+Moderator
+Montador/a de andamios para eventos
+Montador/a de equipos electrónicos
+Night auditor
+Oficial administrativo/a
+Operador/a de cadena de montaje
+Operador/a de call center
+Operador/a de cámara
+Operador/a de embalaje
+Operador/a de empaquetado
+Operador/a de línea de ensamblaje
+Operador/a de línea de montaje
+Operador/a de onduladora de cartón
+Operador/a de planta química
+Operador/a de producción de alimentos
+Operador/a de sala de control
+Operador/a de sistemas
+Operador/a de ventas
+Operador/a logístico/a
+Operational risk analyst
+Operations administrator
+Operations director
+Organizador/a de conferencias y eventos
+Organizador/a de eventos corporativos
+Organizador/a de eventos especiales
+Organizador/a de eventos particulares
+Parking attendant
+Patronista escalador/a textil
+Product development team leader
+Production team member
+Profesor/a de ciencias
+Profesor/a de enseñanza secundaria
+Profesor/a de enseñanza superior
+Profesor/a de escuela de idiomas
+Profesor/a de formación continua
+Profesor/a de formación profesional
+Profesor/a de idiomas
+Profesor/a de informática
+Programador/a de bases de datos
+Programador/a web
+Project engineer
+Project leader
+Project manager
+Property management agent
+Proyeccionista
+QA engineer
+Quality engineer
+Redactor/a de contenidos web
+Redactor/a de periódico
+Redactor/a de revista
+Redactor/a jefe de periódico
+Redactor/a jefe/a
+Redactor/a técnico/a
+Redero/a
+Responsable de atención al cliente
+Responsable de compras
+Responsable de comunicación
+Responsable de equipo de camareros
+Responsable de eventos
+Responsable de gestión hostelera
+Responsable de gestión medioambiental
+Responsable de marketing
+Responsable de producción
+Responsable de recursos humanos
+Responsable de relaciones públicas
+Responsable de RRHH
+Responsable de salud y seguridad
+Responsable de supermercado
+Responsable de tienda
+Room attendant
+Safety and security manager
+Sales team manager
+Sastre/a
+Sastre/a de vestuario
+Secretarial assistant
+Secretario/a
+Secretario/a comercial
+Secretario/a de centro docente
+Secretario/a de consultorio médico
+Secretario/a de dirección
+Secretario/a general
+Secretario/a jurídico/a
+Secretario/a médico/a
+Secretary
+Security consultant
+Security guard
+Security officer
+Senior data analyst
+Senior internal auditor
+Senior operations manager
+Service desk analyst
+Social and community services manager
+Social media marketing specialist
+Social media specialist
+Social media strategist
+Social worker
+Sociólogo/a
+Socorrista
+Socorrista acuático
+Socorrista de piscina
+Socorrista de playa
+Software engineer
+Spa attendant
+Store manager
+Subdirector/a de centro de enseñanza
+Supervisor/a de auditoría
+Supervisor/a de call center
+Supervisor/a de obra civil
+Supply chain analyst
+Team assistant
+Team leader
+Team manager
+Técnico/a administrativo/a
+Técnico/a administrativo/a de gestión
+Técnico/a administrativo/a de gestión financiera
+Técnico/a comercial
+Técnico/a contable
+Técnico/a de atención sociosanitaria
+Técnico/a de calidad
+Técnico/a de ciberseguridad
+Técnico/a de control de calidad
+Técnico/a de control de plagas
+Técnico/a de enseñanza ambiental
+Técnico/a de formación
+Técnico/a de gestión ambiental
+Técnico/a de mantenimiento y reparación
+Técnico/a de protección radiológica
+Técnico/a de recursos humanos
+Técnico/a de redes
+Técnico/a de riego
+Técnico/a de RRHH
+Técnico/a en alarmas de seguridad
+Técnico/a en farmacia y parafarmacia
+Técnico/a en imagen para diagnóstico
+Técnico/a en marketing digital
+Técnico/a informático/a
+Topógrafo/a
+Topógrafo/a minero/a
+Tour leader
+Trabajador/a social
+Vendor management manager
+Vigilante de seguridad
+Vigilante de seguridad aeroportuaria
+Vigilante de seguridad en aeropuertos
+Web application developer
+Web developer
