@@ -1,4 +1,4 @@
-﻿# infojobs_conocimiento
+﻿# infojobs_puesto_tags
 
 Tags que InfoJobs utiliza en el campo puesto
 
@@ -11,4 +11,5 @@ scraping manual!
 He echo que un GPT genere un dicionario y yo mismo he introducido manualmente todas las tags apuntando en un txt todas las tags únicas. Estare eternamente agradecido a la función de notepad++ de "borrar línas duplicadas"
 
 Y así durante horas y horas y horas y horas...
+
 
